@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Doin&#39;s blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.shenlai.xyz/"/>
+  <updated>2020-06-02T07:39:02.114Z</updated>
+  <id>http://www.shenlai.xyz/</id>
+  
+  <author>
+    <name>神来</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>烂笔头开始动动</title>
+    <link href="http://www.shenlai.xyz/2020/06/02/work/%E7%83%82%E7%AC%94%E5%A4%B4%E5%BC%80%E5%A7%8B%E5%8A%A8%E5%8A%A8/"/>
+    <id>http://www.shenlai.xyz/2020/06/02/work/烂笔头开始动动/</id>
+    <published>2020-06-02T03:01:03.000Z</published>
+    <updated>2020-06-02T07:39:02.114Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>希望再次拿起烂笔头, 缓解大龄高科技人才的老年痴呆症!</p></blockquote><pre><code>做为一名大龄高科技人才, 最近发现自己的确状态下降的厉害, 很多东西每天学习刻意强化记忆过3天也基本忘记了, 这应该就是最现实的一面, 35岁后的程序员焦虑. 不要和我说只要努力啥的一切都不是问题, 我相信这是大多数人情况, 我的情况因为进过大厂后续的经济压力应该还算好的.</code></pre><h3 id="blog的意义"><a href="#blog的意义" class="headerlink" title="blog的意义"></a>blog的意义</h3><pre><code>1. 记录自己的足迹, 老来回头看都是经验和故事,回味无穷.2. 年轻的你们, 是一份很好的简历.3. 记下来, 不做重复搜索, 给后人的经验.</code></pre><h3 id="用啥写"><a href="#用啥写" class="headerlink" title="用啥写"></a>用啥写</h3><pre><code>以前我有好几个blog, 有自己搭建用树莓派+花生壳+域名的, 有blogjava, 还有网易blog, 最后发现还是github好. 很多第三方平台几年后没有盈利就关了, 自己的数据会没有, 而已知的github永垂不朽, 可以用issues很方便, 也可以用免费空间, 所以我就用最近出来的hexo静态博客工具吧, 也不算落伍. 最重要的是永久保存不丢失.</code></pre><p>没想到写文章会这么慢. ^_^</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;希望再次拿起烂笔头, 缓解大龄高科技人才的老年痴呆症!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;pre&gt;&lt;code&gt;做为一名大龄高科技人才, 最近发现自己的确状态下降的厉害, 很多东西每天学习刻意强化记忆过3天也基本忘记了, 这应该就是最现实的一面,
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>react-native那些踩过的坑</title>
+    <link href="http://www.shenlai.xyz/2019/08/15/react-native%E9%82%A3%E4%BA%9B%E8%B8%A9%E8%BF%87%E7%9A%84%E5%9D%91/"/>
+    <id>http://www.shenlai.xyz/2019/08/15/react-native那些踩过的坑/</id>
+    <published>2019-08-15T03:51:34.000Z</published>
+    <updated>2020-06-02T03:04:29.371Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="挑战工作" scheme="http://www.shenlai.xyz/categories/%E6%8C%91%E6%88%98%E5%B7%A5%E4%BD%9C/"/>
+    
+    
+      <category term="前端" scheme="http://www.shenlai.xyz/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+      <category term="React Native" scheme="http://www.shenlai.xyz/tags/React-Native/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何定投指数基金</title>
+    <link href="http://www.shenlai.xyz/2019/08/15/%E5%A6%82%E4%BD%95%E5%AE%9A%E6%8A%95%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91/"/>
+    <id>http://www.shenlai.xyz/2019/08/15/如何定投指数基金/</id>
+    <published>2019-08-15T02:42:45.000Z</published>
+    <updated>2020-06-02T03:04:55.738Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="增长财富" scheme="http://www.shenlai.xyz/categories/%E5%A2%9E%E9%95%BF%E8%B4%A2%E5%AF%8C/"/>
+    
+    
+      <category term="理财" scheme="http://www.shenlai.xyz/tags/%E7%90%86%E8%B4%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何用面包机做面包</title>
+    <link href="http://www.shenlai.xyz/2019/08/15/%E5%A6%82%E4%BD%95%E7%94%A8%E9%9D%A2%E5%8C%85%E6%9C%BA%E5%81%9A%E9%9D%A2%E5%8C%85/"/>
+    <id>http://www.shenlai.xyz/2019/08/15/如何用面包机做面包/</id>
+    <published>2019-08-15T02:41:18.000Z</published>
+    <updated>2020-06-02T03:12:39.487Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="闲趣生活" scheme="http://www.shenlai.xyz/categories/%E9%97%B2%E8%B6%A3%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="经验" scheme="http://www.shenlai.xyz/tags/%E7%BB%8F%E9%AA%8C/"/>
+    
+  </entry>
+  
+</feed>
